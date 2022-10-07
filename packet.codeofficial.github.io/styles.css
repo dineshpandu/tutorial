@@ -1,0 +1,58 @@
+body{
+   font-family:times,arial,sans-scrif;
+   background-color:orange;
+} 
+header{
+
+
+  background-color:blue;
+  color:white;
+  padding:50px;
+  margin:center;
+}
+
+
+header img{
+      
+      
+       width="200px"
+       height="220px"
+}
+
+
+.nav ul{
+       list-style-type:none;
+       background-color:pink;
+       margin:0;
+       padding:10px;
+       float:center;
+       
+}
+
+.nav li{
+       float:center;
+}
+ 
+.nav li a{
+       text-decoration:none;
+       padding:10px;
+       display:block;
+       color:black;
+        
+
+}
+
+.nav li a:hover{
+       background-color:#004EFF;
+       color:white;
+}
+
+
+
+
+
+
+
+
+       
+    
